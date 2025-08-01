@@ -48,12 +48,16 @@ This means:
 4.Run the app:
   dotnet run
 
+---
+
 ## File Structure
+
+```
 ExhibitAApp/
-├── Program.cs               // Main application logic
-├── ExhibitAApp.csproj       // C# project file
-├── exhibitA-input.csv       // Input data (tab-delimited)
-├── output.csv               // Generated result file
-├── README.md                // Project description
+├── Program.cs            //Main application logic
+├── ExhibitAApp.csproj    //C# project file
+├── exhibitA-input.csv    //Input data (tab-delimited)
+├── output.csv            //Generated result file
+├── README.md             //Project description
 
-
+```
