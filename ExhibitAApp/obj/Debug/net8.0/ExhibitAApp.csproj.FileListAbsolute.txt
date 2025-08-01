@@ -1,0 +1,15 @@
+/workspaces/Client-Song-Analysis/ExhibitAApp/bin/Debug/net8.0/ExhibitAApp
+/workspaces/Client-Song-Analysis/ExhibitAApp/bin/Debug/net8.0/ExhibitAApp.deps.json
+/workspaces/Client-Song-Analysis/ExhibitAApp/bin/Debug/net8.0/ExhibitAApp.runtimeconfig.json
+/workspaces/Client-Song-Analysis/ExhibitAApp/bin/Debug/net8.0/ExhibitAApp.dll
+/workspaces/Client-Song-Analysis/ExhibitAApp/bin/Debug/net8.0/ExhibitAApp.pdb
+/workspaces/Client-Song-Analysis/ExhibitAApp/obj/Debug/net8.0/ExhibitAApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Client-Song-Analysis/ExhibitAApp/obj/Debug/net8.0/ExhibitAApp.AssemblyInfoInputs.cache
+/workspaces/Client-Song-Analysis/ExhibitAApp/obj/Debug/net8.0/ExhibitAApp.AssemblyInfo.cs
+/workspaces/Client-Song-Analysis/ExhibitAApp/obj/Debug/net8.0/ExhibitAApp.csproj.CoreCompileInputs.cache
+/workspaces/Client-Song-Analysis/ExhibitAApp/obj/Debug/net8.0/ExhibitAApp.sourcelink.json
+/workspaces/Client-Song-Analysis/ExhibitAApp/obj/Debug/net8.0/ExhibitAApp.dll
+/workspaces/Client-Song-Analysis/ExhibitAApp/obj/Debug/net8.0/refint/ExhibitAApp.dll
+/workspaces/Client-Song-Analysis/ExhibitAApp/obj/Debug/net8.0/ExhibitAApp.pdb
+/workspaces/Client-Song-Analysis/ExhibitAApp/obj/Debug/net8.0/ExhibitAApp.genruntimeconfig.cache
+/workspaces/Client-Song-Analysis/ExhibitAApp/obj/Debug/net8.0/ref/ExhibitAApp.dll
